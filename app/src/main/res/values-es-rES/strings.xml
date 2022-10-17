@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="how_was_the_service">Como fue el servicio?</string>
+    <string name="amazing_button">Maravilloso(20%)</string>
+    <string name="good_button">Weno(18%)</string>
+    <string name="okay_button">Va bien(15%)</string>
+    <string name="cost_of_service">Coste del servicio</string>
+    <string name="round_trip">Redondeamos?</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="tip_amount">Monto total %s</string>
+</resources>
